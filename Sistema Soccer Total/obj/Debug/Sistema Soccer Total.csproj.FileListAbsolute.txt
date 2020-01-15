@@ -1,0 +1,17 @@
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\bin\Debug\Sistema Soccer Total.exe.config
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\bin\Debug\Sistema Soccer Total.exe
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\bin\Debug\Sistema Soccer Total.pdb
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema Soccer Total.csprojAssemblyReference.cache
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form1.resources
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Properties.Resources.resources
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema Soccer Total.csproj.GenerateResource.cache
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema Soccer Total.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema Soccer Total.exe
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema Soccer Total.pdb
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form2.resources
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form3.resources
+c:\users\usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form4.resources
+C:\Users\Usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form5.resources
+C:\Users\Usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form6.resources
+C:\Users\Usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form7.resources
+C:\Users\Usuario\source\repos\Sistema Soccer Total\Sistema Soccer Total\obj\Debug\Sistema_Soccer_Total.Form8.resources
